@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Rubik+Gemstones&family=Unbounded:wght@300;600&display=swap');
+
+.masthead{
+    background-size: cover;
+    min-height: 100vh;
+}
+.nav-item a {
+color: white;
+
+font-weight: bold;
+
+}
+.nav-item{
+    margin-right: 7vh;
+    
+}
+.navbar{
+   
+    background-image: linear-gradient(to top,transparent , black);
+      
+
+}
+.col h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.card-img-top{
+    height: 300;
+    width: 300;
+    border-radius: 50%;
+}
+.group5{
+    padding: 15px;
+}
+.package-1{
+    margin-left: 9vh;
+}
+.icon_no7{
+    margin-left: 11vh;
+}
+.t10{
+    margin-left: 10vh;
+}
+.text_07{
+    margin-left: 1vh;
+}
+.main_div07{
+    padding: 7vw;
+    margin-left: 3vw;
+}
+.btn-07{
+    margin-left: 2vw;
+    border-radius: 20px;
+}
+.icon_07-1{
+    margin-left: 72vw;
+margin-top: -90vh;
+
+}
+.icon_07-2{
+    margin-left: 66vw;
+margin-top: -145vh;
+
+}
+.icon_07-3{
+    margin-left: 66vw;
+margin-top: -40vh;
+
+}
+.icon_07-4{
+    margin-left: 1vw;
+margin-top: -140vh;
+
+}
+.icon_07-5{
+    margin-left: 5vw;
+margin-top: -159vh;
+
+}
+.icon_07-6{
+    margin-left: -15vw;
+margin-top: -45vh;
+
+}
+.container_06{
+    width: 100%;
+    min-height: 100vh;
+    
+      
+     background-image: url('../assests/duplicate_layer.png');
+    
+    background-size: cover;
+    
+
+    position: relative;
+    isolation: isolate;
+  
+    
+}
+.container_06::after{
+    content: '';
+    
+    background-image: url('../assests/06-main-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.2;
+}
+.lorem_text06{
+    width: 70%;
+    margin-left: 12vw;
+    margin-top: 20vh;
+    
+}
+.belowH_text06{
+    margin-left: 25vw;
+   
+    color: white;
+    font-weight: bold;
+}
+
+.container_08{
+     min-height: 100vh;
+     width: 100%;
+     background-color:rgb(238, 219, 218);
+}
+.heading_08{
+    margin-left: 12vw;
+width: 60%;
+color:rgb(246, 89, 81) ;
+}
+.heading_08 h1{
+    
+    font-weight: bold;
+    font-size: 9vh;
+    font-family: 'Oswald', sans-serif;
+}
+.heading_08 p{
+    width: 70%;
+    margin-left: 2vw;
+margin-top: 4vh;
+}
+.heading_08 .subscribe{
+    width: 60%;
+    margin-top: 4vh;
+    margin-left: 2vw;
+    
+    
+}
+.icon_08-2{
+    margin-left: 40vw;
+margin-top: -100vh;
+}
+.icon_08-3{
+    margin-top: -113vh;
+    argin-left: -54vw;
+}
+.icon_08-1{
+    margin-top: -113vh;
+    margin-left: 7vw;
+}
+.icon_08-1-1{
+    margin-top: -113vh;
+    margin-left: 7vw;
+}
+.icon_08-4{
+    margin-top: -8vh;
+margin-left: 11vw;
+}
+.icon_08-4-1{
+    margin-top: -90vh;
+    margin-left: -53vw;
+}
+.icon_08-5{
+    margin-top: -113vh;
+}
+.icon_08-6{
+    margin-top: -61vh;
+    margin-left: 7vw;
+}
+.icon_08-6-1{
+    margin-top: -8vh;
+    margin-left: 7vw;
+}
+.footerpoint_1{
+    text-decoration: none;
+}
